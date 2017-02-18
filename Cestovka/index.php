@@ -1,6 +1,6 @@
 <?php
 
-echo "aweldfjwefu";
+echo "joujoujou   ide too a hura jwefu";
 phpinfo();
 
 ?>
