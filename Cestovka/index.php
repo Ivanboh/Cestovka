@@ -1,6 +1,6 @@
 <?php
 
-echo "ahoj web
+echo "ahoj Ivan web
 ide too a hura jwefu";
 phpinfo();
 
